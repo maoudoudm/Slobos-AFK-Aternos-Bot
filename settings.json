@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "maoudoud51.aternos.me:13230",
+    "port": 13230,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
